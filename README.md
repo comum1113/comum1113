@@ -1,76 +1,68 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+LofiSu.+AI+Full-Stack+Engineer" alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=0078D7&center=true&vCenter=true&width=700&pause=100000&lines=🌟Apache+Committer.+🦌+Maintainer+of+ByteDance+/+DeerFlow.;" alt="Profile Info"/>
+  <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
+    <strong>I'm currently Focus on Agentic SFT, RL, and Infra.</strong>
+  </p>
 
-<h1>Hi, I'm comum 👋</h1>
+  <p>
+    <code>🐼 Born 2006.01.26 · Chengdu, China.</code>
+    <code>📍 Now Base in Beijing/ShangHai.</code>
+  </p>
 
 <p>
-  🚁 <b>RD Engineer · Meituan</b>
-</p>
+  <a href="https://mp.weixin.qq.com/s/uOAeNE5lcGjCB13vUwjNcg" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/微信公众号-阿酥在Coding-1AAD19?style=flat-square&logo=wechat&logoColor=white" alt="微信公众号"/>
+  </a>
 
-<p>
-  🛸 Drone Delivery Platform &nbsp;·&nbsp; 🗺️ Map & Address System
-</p>
+  <a href="mailto:lofisuchat@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Gmail-lofisuchat%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
-<p>
-  🐣 Born 2003.xx.xx &nbsp;·&nbsp; 📍 Hong Kong / Dubai
-</p>
+  <a href="https://www.xiaohongshu.com/user/profile/620103f00000000021029b87" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/小红书-阿酥在Coding-FF0036?style=flat-square&logoColor=white" alt="小红书"/>
+  </a>
 
----
+  <a href="https://space.bilibili.com/489812144" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Bilibili-空生酥-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili"/>
+  </a>
 
-<!-- 彩色徽章栏 -->
-<p>
-  <img src="https://img.shields.io/badge/微信-comum-07C160?style=flat-square&logo=wechat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gmail-your@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-comum-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/美团-Meituan_RD-F9C120?style=flat-square&logo=meituan&logoColor=black"/>
+  <a href="https://music.163.com/#/artist?id=33710680" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/网易云音乐-空生酥-C20C0C?style=flat-square&logo=neteasemusic&logoColor=white" alt="网易云音乐"/>
+  </a>
 </p>
 
 </div>
-
----
-
-<!-- 两栏布局 -->
 <table>
-  <tr>
-    <td valign="top" width="50%">
+<tr>
+<td valign="top" width="50%">
+  
+#### 💼 Work Experience
+  
+#### 🌱 Internship Experience
 
-### 💼 Work Experience
+> 📄 [View Offers →](https://github.com/LofiSu/LofiSu/blob/main/offer.md)
 
-#### 🏢 Full-time
+<p>
+<strong>Bytedance</strong> -- <code>DouyinAI AI4SE Agentic SFT·RL·Infra </code> -- <code>2025.12 to 4.</code><br/>
+<strong>ByteDance</strong> -- <code>E-commerce Tech Team</code> -- <code>2025.5 to 9.</code><br/>
+<strong>ByteDance</strong> -- <code>Live Streaming Tech Team </code> -- <code>2025.1 to 5.</code><br/>
+<strong>Bilibili</strong> -- <code>OGV Tech Team </code> -- <code>2024.7 to 2024.11.</code><br/>
+</p>
 
-**美团 Meituan** &nbsp;`无人机配送平台 RD` &nbsp; `2024 至今`
-- 负责无人机空投柜 POI 数据处理
-- 地图搜索接口（香港 / 迪拜）开发与联调
-- 前端动态包版本管理与接口 Mock 数据维护
+</td>
+<td valign="top" width="48%">
 
-    </td>
-    <td valign="top" width="50%">
+#### 💻 Open Source Experience
 
-### 🌟 Tech Stack
+> 🏅 [View Awards →](https://github.com/LofiSu/LofiSu/blob/main/Awards.md)
 
-- 🔧 **Backend**：Java · Spring Boot · Thrift RPC
-- 🗄️ **Storage**：Redis · MySQL · Elasticsearch
-- 🌐 **Frontend**：JavaScript · Bundle · Mock
-- 🛠️ **Tools**：Claude Code · scrcpy · adb
-- 📡 **Infra**：Hulk · Raptor · Eagle/ES
+- 🦌 **Maintainer of [ByteDance/DeerFlow](https://github.com/bytedance/deer-flow)**
+- ✨ **Apache Committer — [Fory.Apache](https://fory.apache.org/)**
+- 🏆 **Tencent Rhino Bird** Open Source Practical AwardOpen Source Contributor — [Tencent Omi](https://github.com/Tencent/omi)
+- 🌟 **Alibaba** Open Source Contributor — [Higress](https://github.com/alibaba/higress) · [OpenYurt](https://github.com/openyurtio/openyurt) · [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba)
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
-
----
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-![comum's GitHub stats](https://github-readme-stats.vercel.app/api?username=comum&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=comum&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐾 About Me
