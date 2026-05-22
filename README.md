@@ -44,25 +44,27 @@
   
 #### 🌱 Internship Experience
 
-> 📄 [View Offers →](https://github.com)
+> 📄 [View Offers →](https://github.com/LofiSu/LofiSu/blob/main/offer.md)
 
 <p>
-<strong>Meituan</strong> -- <code>Drone Delivery BU</code> -- <code>2026.4 to Now.</code><br/>
+<strong>Bytedance</strong> -- <code>DouyinAI AI4SE Agentic SFT·RL·Infra </code> -- <code>2025.12 to 4.</code><br/>
+<strong>ByteDance</strong> -- <code>E-commerce Tech Team</code> -- <code>2025.5 to 9.</code><br/>
+<strong>ByteDance</strong> -- <code>Live Streaming Tech Team </code> -- <code>2025.1 to 5.</code><br/>
+<strong>Bilibili</strong> -- <code>OGV Tech Team </code> -- <code>2024.7 to 2024.11.</code><br/>
 </p>
 
 </td>
 <td valign="top" width="48%">
 
 #### 💻 Open Source Experience
-> 🚧 Coming Soon...
-  <!--
-> 🏅 [View Awards →](https://github.com)
+
+> 🏅 [View Awards →](https://github.com/LofiSu/LofiSu/blob/main/Awards.md)
 
 - 🦌 **Maintainer of [ByteDance/DeerFlow](https://github.com/bytedance/deer-flow)**
 - ✨ **Apache Committer — [Fory.Apache](https://fory.apache.org/)**
 - 🏆 **Tencent Rhino Bird** Open Source Practical AwardOpen Source Contributor — [Tencent Omi](https://github.com/Tencent/omi)
 - 🌟 **Alibaba** Open Source Contributor — [Higress](https://github.com/alibaba/higress) · [OpenYurt](https://github.com/openyurtio/openyurt) · [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba)
--->
+
 </td>
 </tr>
 </table>
