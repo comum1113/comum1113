@@ -5,9 +5,8 @@
   />
 
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=0078D7&center=true&vCenter=true&width=700&pause=100000&lines=🌟Apache+Committer.+🦌+Maintainer+of+ByteDance+/+DeerFlow."
-    alt="Profile Info"
-  />
+  src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=0078D7&center=true&vCenter=true&width=700&pause=100000&lines=🎓University+of+Electronic+Science+and+Technology+of+China+·+MSc"
+/>
 
   <p>
     <img
