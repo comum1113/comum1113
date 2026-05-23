@@ -15,7 +15,7 @@
       width="28px"
       height="28px"
     />
-    <strong>I'm currently Focus on Agentic SFT, RL, and Infra.</strong>
+    <strong>I'm currently Focus on Agent.</strong>
   </p>
 
   <p>
@@ -53,14 +53,7 @@
 <div style="width: 48%;">
 
 #### 💼 Work Experience
-**Meituan** · Drone Delivery BU · `Apr 2026 – Present`
-
-</div>
-
-<div style="width: 48%;">
-
-#### 💻 Open Source Experience
-> 🚧 Coming Soon...
+**Meituan** · Drone Delivery BU · `2026.04 to Present`
 
 </div>
 
