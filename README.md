@@ -5,7 +5,7 @@
   />
 
   <img
-  src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=0078D7&center=true&vCenter=true&width=700&pause=100000&lines=🎓MSc+@+UESTC+%7C+University+of+Electronic+Science+and+Technology+of+China"
+  src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=0078D7&center=true&vCenter=true&width=800&pause=100000&lines=🎓MSc+@+UESTC+%7C+University+of+Electronic+Science+and+Technology+of+China"
 />
 
   <p>
