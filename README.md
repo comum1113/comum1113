@@ -47,24 +47,21 @@
   -->
 </div>
 
-<!-- 表格：设置 width: 100% 以占满整行 -->
-<table style="width: 100%;">
+<!-- 表格布局 -->
+<table style="width: 100%; border: none;">
   <tr>
+    <!-- 左侧：工作经历 -->
     <td valign="top" width="50%">
-
-#### 💼 Work Experience
-
-<p>
-  <strong>Meituan</strong> -- <code>Drone Delivery BU</code> -- <code>2026.4 to Now.</code><br/>
-</p>
-
+      <h4>💼 Work Experience</h4>
+      <p>
+        <strong>Meituan</strong> -- <code>Drone Delivery BU</code> -- <code>2026.4 to Now.</code>
+      </p>
     </td>
+
+    <!-- 右侧：开源经历 -->
     <td valign="top" width="50%">
-
-#### 💻 Open Source Experience
-
-> 🚧 Coming Soon...
-
+      <h4>💻 Open Source Experience</h4>
+      <blockquote>🚧 Coming Soon...</blockquote>
     </td>
   </tr>
 </table>
