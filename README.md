@@ -47,7 +47,7 @@
 </p>
 
 </td>
-<td valign="top" width="48%">
+<td valign="top" width="50%">
 
 #### 💻 Open Source Experience
 
