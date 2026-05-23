@@ -48,7 +48,7 @@
   -->
 </div>
 
-<table>
+<table width="100%">
 <tr>
 
 <td valign="top">
@@ -59,7 +59,7 @@
 
 </td>
 
-<td valign="top">
+<td width="50%" valign="top">
 
 #### 💻 Open Source Experience
 
