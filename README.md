@@ -48,24 +48,20 @@
   -->
 </div>
 
-<table width="100%">
-<tr>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
-<td valign="top">
+<div style="width: 48%;">
 
 #### 💼 Work Experience
-
 **Meituan** · Drone Delivery BU · `Apr 2026 – Present`
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+<div style="width: 48%;">
 
 #### 💻 Open Source Experience
-
 > 🚧 Coming Soon...
 
-</td>
+</div>
 
-</tr>
-</table>
+</div>
